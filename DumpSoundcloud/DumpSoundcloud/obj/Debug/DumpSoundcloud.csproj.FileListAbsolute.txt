@@ -1,0 +1,6 @@
+c:\users\markus\documents\visual studio 2017\Projects\DumpSoundcloud\DumpSoundcloud\bin\Debug\DumpSoundcloud.exe.config
+c:\users\markus\documents\visual studio 2017\Projects\DumpSoundcloud\DumpSoundcloud\bin\Debug\DumpSoundcloud.exe
+c:\users\markus\documents\visual studio 2017\Projects\DumpSoundcloud\DumpSoundcloud\bin\Debug\DumpSoundcloud.pdb
+c:\users\markus\documents\visual studio 2017\Projects\DumpSoundcloud\DumpSoundcloud\obj\Debug\DumpSoundcloud.csprojResolveAssemblyReference.cache
+c:\users\markus\documents\visual studio 2017\Projects\DumpSoundcloud\DumpSoundcloud\obj\Debug\DumpSoundcloud.exe
+c:\users\markus\documents\visual studio 2017\Projects\DumpSoundcloud\DumpSoundcloud\obj\Debug\DumpSoundcloud.pdb

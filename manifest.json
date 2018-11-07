@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Now Playing: Web To Stream",
+    "description": "Browser exstension to get now playing from soundcloud and various other sources on the web.",
+    "version": "1.0.0",
+  
+    "icons": {
+      "48": "icon.png"
+    },
+  
+    "permissions": [
+      "nativeMessaging",
+      "tabs",
+      "<all_urls>"
+    ],
+  
+    "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    },
+  
+    "background": {
+      "scripts": [ "background.js" ],
+      "persistent": false
+    }
+  }
+  
